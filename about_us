@@ -1,0 +1,13 @@
+<?php require __DIR__ . '/nav.php'; ?>
+<link rel="stylesheet" href="Assets/css/custom.css">
+
+<div class="wrapper">
+    <div class="content">
+        <div class="container">
+            <h1>About Us</h1>
+            <p>We are passionate horror movie fans who gathered our top 10 scariest films list to share with other enthusiasts. Our goal is to help you find your next terrifying watch!</p>
+        </div>
+    </div>
+
+    <?php require __DIR__ . '/footer.php'; ?>
+</div>
