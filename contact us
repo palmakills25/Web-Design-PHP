@@ -1,0 +1,10 @@
+<?php require __DIR__ . '/nav.php'; ?>
+<link rel="stylesheet" href="Assets/css/custom.css">
+
+<div class="container">
+  <h1>Contact Us</h1>
+  <p>Email: horrorfans@example.com</p>
+  <p>Instagram: @horrormovieclub</p>
+</div>
+
+<?php require __DIR__ . '/footer.php'; ?>
